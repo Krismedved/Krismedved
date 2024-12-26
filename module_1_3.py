@@ -6,4 +6,5 @@ new_age = age + 5
 print (new_age)
 name = 'is_student'
 print(bool (name))
+is_student = True
 
